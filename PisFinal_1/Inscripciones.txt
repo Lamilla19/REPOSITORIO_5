@@ -1,0 +1,3 @@
+﻿kevin;arevalo;0302527742;Jose;Guachun;1;
+DAVID;Arevalo;0985476642;Jose;Guachun;1;
+Giampaolo;Delgado Olea;0923538789;Jose;Guachun;1;

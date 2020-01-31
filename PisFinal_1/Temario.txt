@@ -1,0 +1,67 @@
+1;1;¿Que significa   KARATE?;KARA significa vacio y TE mano.;KARA significa fuerza y TE mano.;KARA significa vacio y TE espiritual.;KARA significa mano y TE vacio.
+1;2;¿Qué significa ZANSHIN?;Alerta continua;Estado de paz;Energía interior;Taijutsu
+1;3;¿Qué significa CHAKUGAN ?;Mirada;Energía interior;Mirada blanca;Energía física y mental
+1;4;¿Qué es KIME?;La fuerza;Valor;Mirada blanca;Energía interna
+1;5;¿Qué es KI?;Energía interior;Mirada;Flujo de energía;Fortaleza interior
+1;6;¿ Qué es KIAI ?;La liberación de energía interna mediante un grito;La liberación de fuerza mediante un salto;La liberación de energía interna mediante una técnica;La liberación de fuerza mediante concentración de KI
+1;7;¿Qué significa REI?;Saludo;Respeto;Gentileza;Moral
+1;8;¿Por qué se saluda y cuál es la finalidad del saludo?;El saludo se hace por cortesía, para demostrar respeto, humildad y gentileza.;El saludo se hace por cortesía, para incitar una pelea justa con la otra persona;Para incitar a dos personas a iniciar una amistad;Para incitar a dos personas a iniciar una contienda
+1;9;Diferentes alturas o niveles para golpear:;JODAN (nivel alto), CHUDAN (nivel medio), GEDAN (nivel bajo);CHUDAN (nivel medio),  JODAN (nivel bajo), GEDAN (nivel alto);CHUDAN (nivel bajo),  JODAN (nivel medio), GEDAN (nivel alto);CHUDAN (nivel medio),  GEDAN (nivel bajo), JODAN (nivel alto)
+1;10;Significado de la palabra KATA:;Se puede definir como una serie de técnicas (en defensa y ataque, de puño y pierna) realizadas con un orden preestablecido contra adversarios imaginarios.;Se puede definir como otro tipo de altura o nivel para golpear;Se puede definir como distintos tipos de liberación de KI;Se puede definir como saludos (de entrada o salida) realizadas con un orden preestablecido contra adversarios imaginarios.
+1;11;Significado de la palabra KUMITE:;Combate;Paz;Saludo;Fuerza
+2;1;¿Qué es TSUKITE?;El que ejecuta la acción;El que recoje hacia atrás;EL que recoje hacia adelante;La acción de la cadera
+2;2;¿Qué es HIKITE?;El que recoje hacia atrás;El que ejecuta la acción;EL que recoje hacia adelante;La acción de la cadera
+2;3;¿Qué es KOSHI KAITEN?;La acción de la cadera;El que ejecuta la acción;El que recoje hacia atrás;EL que recoje hacia adelante
+2;4;Seleccione las que corresponden a las  técnicas piernas:;KAKAE KOMI ASHI, KOSHI, JIKU ASHI,HIKI ASHI;KAKAE KOMI ASHI, KOSHI, JIKU ASHI, KEAGE;SOMENI REI, OTAGAINI REI,  KAKAE KOMI ASHI;JIKU ASHI, KOSHI, OTAGAINI REI
+2;5;Seleccione las que corresponden a las  técnicas piernas:;KEKOMI, KEBANASHI, KEAGE, KEKOMI;KEAGE, KEBANASHI, FUMIKOMI, REI;FUMIKIRI, KEBANASHI, FUMIKOMI, KAKAE;KEKOMI, KOSHI, KEAGE, KEKOMI
+2;6;Seleccione los tipos de saludo;RITSU REI (saludo sentado), OTAGAINI REI(saludo recíproco), SENSEINI REI(saludo al maestro), ZA REI(saludo de ceremonia);RITSU REI (saludo recíproco), OTAGAINI REI(saludo de ceremonia), SENSEINI REI(saludo al maestro), ZA REI(saludo al frente);RITSU REI (saludo de ceremonia), OTAGAINI REI(saludo de al frente), SENSEINI REI(saludo al maestro), ZA REI(saludo recíproco);Ninguna es correcta
+2;7;¿Qué es y para qué sirve el MOKUSO?;Es el estado de meditación antes o después de la clase;Es el estado de meditación antes de la clase;Es el estado de meditación antes y después de la clase;Es el estado de concentración antes y después de la clase
+2;8;¿Para qué sirve el trabajo de los katas?;Sirve para desarrollar los elementos fundamentales del KARATE.;Sirve para enseñar los elementos fundamentales del KARATE.;Sirve para destruir técnicas fundamentales del KARATE.;Sirve para enseñar los ideales del KARATE.
+2;9;Principales puntos en la ejecución de un kata:;CHAKUGAN (Mirada), HYOSHI(Ritmo), ENBUSEN(Linea de realizacion), KIME(Fuerza),KIAI(Grito de concentración), KIHAKU(vivencia);BYAKUGAN (Mirada), HYOSHI(vivencia), ENBUSEN(Linea de realizacion), KIME(Fuerza),KIAI(Grito de concentración), KIHAKU(ritmo);BYAKUGAN (Fuerza), HYOSHI(vivencia), ENBUSEN(Linea de realizacion), KIME(Mirada),KIAI(Grito de concentración), KIHAKU(ritmo);CHAKUGAN (Mirada), HYOSHI(vivencia), ENBUSEN(ritmo), KIME(saludo),KIAI(Grito de concentración), KIHAKU(fuerza)
+2;10;¿Qué es BUNKAI KUMITE?;Es la aplicación práctica de las técnicas del kata.;Es la aplicación práctica de las técnicas del karate.;Es la aplicación práctica de las técnicas del kiai.;Es la aplicación práctica de las técnicas del keage.
+2;11;¿Qué es y para qué sirve el ENBUSEN?;Son las líneas de ejecución y sirve para determinar las direcciones que se deben seguir al ejecutar el kata.;Son las líneas de instrucción y sirve para determinar las aptitudes que se deben seguir al ejecutar el kata.;Son las líneas fundamentales de KI y sirve para determinar las direcciones que se deben seguir al ejecutar el karate.;Son las líneas de ejeución y sirve para determinar las direcciones que se deben seguir al ejecutar el kumite.
+2;12;¿Para que sirve el trabajo de KUMITE?;Para demostrar la efectividad de las técnicas, tanto en ataque como en defensa;Para demostrar la efectividad del kata, tanto en ataque como en defensa;Para demostrar las técnicas del karate, tanto en ataque como en defensa.;Para demostrar la aplicación práctica de las técnicas en ataque
+3;1;¿Qué significa KARATE DO?;KARATE significa vacío;TE signinifica mano y DO camino espiritual;DO camino espiritual;TE signinifica mano
+3;2;¿Qué es JYUN KAITEN?;En el mismo sentido que la técnica;En sentido contrario de la técnica;En avance;En retroceso
+3;3;¿Qué es GYAKU KAITEN ?;En sentido contrario de la técnica;En retroceso;En el mismo sentido que la técnica;En avance
+3;4;¿Qué es ZENPO ?;En avance;En sentido contrario de la técnica;En retroceso;En el mismo sentido que la técnica
+3;5;¿Qué es KOHO ?;En retroceso;En avance;En sentido contrario de la técnica;En el mismo sentido que la técnica
+3;6;Enumeracion de las distintas posiciones del tronco;SHOMEN (MAE) frontal,SOKUMEN (YOKO)  lateral, HANMI posición semi frontal,GYAKU HANMI inversa semi frontal;SOKUMEN (YOKO)  lateral,SHOMEN (MAE) frontal , HANMI posición semi frontal,GYAKU HANMI inversa semi frontal;HANMI posición semi frontal,GYAKU HANMI inversa semi frontal,SOKUMEN (YOKO)  lateral,SHOMEN (MAE) frontal;GYAKU HANMI inversa semi frontal,SOKUMEN (YOKO)  lateral,SHOMEN (MAE) frontal ,  HANMI posición semi frontal
+3;7;¿Qué es HAIWAN o UDE?;Antebrazo;Puño del revés;Codo;Puño frontal 
+3;8;¿Qué es EMPI o HIJI ?;Codo;Antebrazo;Base de la palma de la mano;Puño de martillo
+3;9;¿Qué es SEIKEN  ?;Puño frontal;Codo;Dorso de la mano;Nudillos
+3;10;¿Qué es URAKEN  ?;Puño del revés;Borde interno de la mano;Dorso de la mano;Puño del dedo índice 
+3;11;¿Qué es NUKITE?;Punta de los dedos;Extremo interior de la muñeca;Puño del medio del dedo;Antebrazo
+3;12;¿Qué es SEIRYUTO?;Parte inferior de la muñeca;Codo;Antebrazo;Nudillos 
+3;13;¿Qué es KENTSUI o TETTSUI?;Puño de martillo;Nudillos;Borde externo de la mano;Dorso de la mano
+3;14;¿Qué es TEISHO o SHOTEI  ?;Base de la palma de la mano;Puño frontal;Puño de martillo;Antebrazo
+3;15;¿Qué es NAKADAKA KEN ?;Puño del medio dedo;Puño de martillo;Dorso de la mano;Puño frontal
+3;16;¿Qué es NAKADAKA IPPON KEN  ?;Puño del dedo índice;Puño del revés;Dorso de la mano;Nudillos
+3;17;¿Qué es KEITO?;Extremo interior de la muñeca;Codo;Puño del medio dedo;Dorso de la mano
+3;18;¿Qué es SHUTO?;Borde externo de la mano;Antebrazo;Extremo interior de la muñeca;Dorso de la mano 
+3;19;¿Qué es HAITO ?;Borde interno de la mano;Puño frontal;Puño del medio dedo;Puño del dedo índice
+3;20;¿Qué es KENTOS?;Nudillos;Dorso de la mano;Puño frontal;Antebrazo
+3;21;¿Qué es HAISU?;Dorso de la mano;Nudillos;Antebrazo;Codo
+3;22;¿Cuales son los nombres que reciben las partes del pie : talón ,punta de los dedos, base de los dedos, planta del pie, canto externo del pie,empeine ?;KAKATO,TSUMASAKI,JO SOKUTEI,SOKUTEI,SOKUTO,HEISOKU;HIZA ,TSUMASAKI,JO SOKUTEI,SOKUTEI;SOKUTEI,HIZA ,TSUMASAKI,JO SOKUTEI,SOKUTEI;Ninguna de las anteriores
+3;23;¿Nombre que recibe una parte de la pierna: rodilla ?;HIZA;HIZA,TSUMASAKI,JO SOKUTEI,SOKUTEIHEISOKU;SOKUTEI,HIZA ,TSUMASAKI,JO SOKUTEI,SOKUTEI;Ninguna de las anteriores
+3;24;¿ Que significa DE ASHI?;Hacia delante;Hacia  atrás;lateral;Ninguna
+3;25;¿ Que significa HIKI ASHI ?;Hacia  atrás;Circular;Hacia delante;lateral
+3;26;¿ Que significa YOKO ASHI ?;lateral;Circular;Hacia atrás;Ninguna de las anteriores
+3;27;¿ Que significa MAWARI ASHI ?;Circular;De ambos pies;Hacia atrás;En salto
+3;28;¿ Que significa TOBI ASHI ?;En salto;Lateral;Circular;Hacia delante 
+3;29;¿ Que significa YORI ASHI  ?;De ambos pies;Lateral;En salto;Hacia atrás
+3;30;¿ Que significa HIDARI  ?;Izquierda;Lateral;Diagonal;Circular
+3;31;¿ Que significa MIGI ?;Derecha;En salto;Lateral;De ambos pies
+3;32;¿ Que significa NANAME?;Diagonal;Hacia delante;Lateral;Izquierda
+4;1;De los diferentes tipos de respiración, que significa "IBUKI";diafragmática con contracción abdominal sonora;asalto libre;normal;diafragmática sin contracción abdominal
+4;2;De los diferentes tipos de respiración, que significa "DONTO";nomal;asalto a un paso y/o una técnica;asalto libre;profunda, contracción, sonora
+4;3;De los diferentes tipos de respiración, que significa "IBUKI NOGARE";diafragmática con contracción abdominal sin ruido;profunda,sonora,concentrada;normal;diafragmática con contracción abdominal con ruido
+4;4;De los diferentes tipos de respiración, que significa "NOGARE";diafragmática sin contracción abdominal;diafragmática con contracción abdominal;diafragmática con poca contracción abdominal;diafragmática sin contracción abdominal
+4;5;De los diferentes tipos de respiración, que significa "IBUKI SANKAI";profunda, concentrada,sonora;normal;asalto libre;concentrada
+4;6;De los diferentes tipos de Kumite, que significa "SIHAI KUMITE";asalto reglamentado;asalto libre;asalto a un paso y/o una técnica;asalto libre a una técnica
+4;7;De los diferentes tipos de Kumite, que significa "JYU KUMITE";asalto libre;asalto a tres pasos y/o tres técnicas;asalto libre a una técnica;asalto a cinco pasos y/o cinco técnicas
+4;8;De los diferentes tipos de Kumite, que significa "JYJU IPPON KUMITE";asalto libre a una técnica;asalto a cinco pasos y/o cinco técnicas;asalto libre;normal
+4;9;De los diferentes tipos de Kumite, que significa "JAKUSOKU KUMITE";asalto de estudio convencional entrelazado;asalto libre a una técnica;asalto a cinco pasos y/o cinco técnicas;asalto a tres pasos y/o tres técnicas
+4;10;De los diferentes tipos de Kumite, que significa "GOHON KUMITE";asalto a cinco pasos y/o cinco técnicas;nigun asalto y niguna técnica;asalto a tres pasos y/o tres técnicas;asalto a tres pasos 
+4;11;De los diferentes tipos de Kumite, que significa "SONBON KUMITE";asalto a tres pasos y/o tres técnicas;asalto a diez pasos;asalto a tres pasos;ninguna de las anteriores 
+4;12;De los diferentes tipos de Kumite, que significa "IPPON KUMITE";asalto a un paso y/o una técnica;asalto a tres pasos y/o 1 técnica;asalto libre;ninguna de las anteriores

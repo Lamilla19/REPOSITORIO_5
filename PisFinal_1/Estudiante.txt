@@ -1,0 +1,3 @@
+0302527742;kevin;arevalo;7;Mayo;2000;19;0991887965;Guasmo sur coop Union de B;2;
+0985476642;DAVID;Arevalo;2;Abril;2002;17;0996547895;Tulipanes;0;
+0923538789;Giampaolo;Delgado Olea;8;Enero;2001;12;0987456;Taller A/C;0;
